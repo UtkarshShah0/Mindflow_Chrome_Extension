@@ -1,0 +1,168 @@
+html, body {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 10px;
+}
+
+#navbar button {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+#navbar button:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+
+#chatbot-container {
+    min-width: 300px;
+    max-width: 1000px;
+    border-radius: 20px;
+    border: 1cm;
+    border: #000000;
+    font-family: Arial, sans-serif;
+}
+
+
+#chatbot-content {
+    padding: 10px; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+#chat-section{
+    display : block;
+    padding: 5px;
+    padding-top: 2px;
+    /* border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  */
+}
+
+#summary-section {
+    display: none; /* Initially hide the summary section */
+    /* Rest of your styles for the summary section */
+}
+
+
+#image-section{
+    display: none;
+}
+
+.question {
+    width: 80%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+
+.submit {
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.response::-webkit-scrollbar{
+    display: none;
+  }
+
+.response {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    font-size: 14px;
+    max-height: 350px;
+    max-width: 100%;
+    overflow: auto; 
+    /* overflow-y: scroll;
+    overflow-x: scroll;  */
+}
+
+
+@media screen and (min-width: 1200px) {
+    #chatbot-container {
+        width: 30%;
+    }
+}
+
+
+
+.rainbow {
+    border-radius: 10px;
+    padding: 2rem;
+    margin: auto;
+  
+    display: grid;
+    place-content: center;
+    text-align: center;
+  
+  
+    --border-size: 0.3rem;
+    border: var(--border-size) solid transparent;
+  
+    /* Paint an image in the border */
+    border-image: conic-gradient(
+        from var(--angle),
+        #d53e33 0deg 90deg,
+        #fbb300 90deg 180deg,
+        #377af5 180deg 270deg,
+        #399953 270deg 360deg
+      )
+      1 stretch;
+    background: rgb(255 255 255 / var(--opacity));
+  }
+  
+
+  @supports (background: paint(houdini)) {
+    @property --opacity {
+      syntax: "<number>";
+      initial-value: 0.5;
+      inherits: false;
+    }
+  
+    @property --angle {
+      syntax: "<angle>";
+      initial-value: 0deg;
+      inherits: false;
+    }
+  
+    @keyframes opacityChange {
+      to {
+        --opacity: 1;
+      }
+    }
+  
+    @keyframes rotate {
+      to {
+        --angle: 360deg;
+      }
+    }
+  
+    .rainbow {
+      animation: rotate 4s linear infinite, opacityChange 3s infinite alternate;
+    }
+  
+  }
+  

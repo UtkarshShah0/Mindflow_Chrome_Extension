@@ -1,0 +1,22 @@
+{
+    "name": "MindFlow",
+    "version": "1.0.0",
+    "description": "AI chat, summarize, analyze & generate images in one extension - MindFlow",
+    "manifest_version": 3,
+    "author": "Utkarsh",
+    "icons": {
+        "16": "icon-128.png",
+        "32": "icon-128.png",
+        "128": "icon-128.png"
+    },
+    "host_permissions": [
+        "https://cloud.mindsdb.com/*"
+    ],
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Chat"
+        },
+    "permissions": [
+        "activeTab"
+        ]
+}
