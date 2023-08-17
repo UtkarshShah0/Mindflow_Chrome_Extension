@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
     
-    //To show only desired sections hide others
-
     const chatButton = document.getElementById('chat-button');
     const summaryButton = document.getElementById('summary-button');
     const imageButton = document.getElementById('image-button');
@@ -10,6 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const summarySection = document.getElementById('summary-section');
     const imageSection = document.getElementById('image-section');
 
+    //Code to hide and unhide sections
+    
     chatButton.addEventListener('click', function () {
         chatSection.style.display = 'block';
         summarySection.style.display = 'none';
@@ -28,9 +28,6 @@ document.addEventListener('DOMContentLoaded', function () {
         imageSection.style.display = 'block';
     });
 
-
-
-
 // chat section
 
     const questionInput = document.getElementById('question_chat');
@@ -47,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
         rotate.classList.add("rainbow")
 
         const question = questionInput.value.trim();
-                const apiUrl = 'Your Server Link/chat'; // Change the API route as needed
+                const apiUrl = 'https://mindflow-u5hy.onrender.com/chat'; // Change the API route as needed
                 const response = await fetch(apiUrl, {
                     method: 'POST',
                     headers: {
@@ -98,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function () {
         console.log(context)
         
         
-        const apiUrl = 'Your Server Link/context'; 
+        const apiUrl = 'https://mindflow-u5hy.onrender.com/context'; 
         const response = await fetch(apiUrl, {
                     method: 'POST',
                     headers: {
@@ -150,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function () {
         
         
         
-        const apiUrl = 'Your Server Link/image'; 
+        const apiUrl = 'https://mindflow-u5hy.onrender.com/image'; 
         const response = await fetch(apiUrl, {
                     method: 'POST',
                     headers: {
@@ -163,6 +160,22 @@ document.addEventListener('DOMContentLoaded', function () {
             const data = await response.json();
             console.log(data)
             
+            // const markdownText = data;
+            // console.log(data)
+
+            // console.log('Original Markdown:', markdownText)
+
+            // const markedOptions ={
+            //     sanitize: false
+            // }
+            // const htmlText = marked(markdownText, markedOptions);
+
+            // console.log('HTML Output:', htmlText);
+
+            
+
+            // const result = htmlText.match(/\<a\>.+\<\/a\>/)
+            // console.log(result);
             var url = data;
 
             var input = document.createElement("input");
@@ -186,7 +199,13 @@ document.addEventListener('DOMContentLoaded', function () {
             container.appendChild(input);
             container.appendChild(button)
 
+
             rotate.classList.remove("rainbow")
+
+            // container.appendChild(button)
+            // responseDiv_3.innerHTML= htmlText;
+
+            //loading remove
             
         } else {
             responseDiv_3.textContent = 'Error: Unable to fetch response.';
