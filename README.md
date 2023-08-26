@@ -1,6 +1,5 @@
 # MindFlow - AI-powered Text and Image Generation Chrome Extension
 
-![GitHub](https://img.shields.io/github/license/UtkarshShah0/Mindflow_Chrome_Extension/LICENSE?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)
 
 Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, OpenAI, and FastAPI to generate text and images on-the-fly.
