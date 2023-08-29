@@ -5,11 +5,13 @@
 Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, OpenAI, and FastAPI to generate text and images on-the-fly.
 
 ![Extension Demo](demo.gif)
+<br>
 
 ## Features
 - Seamless integration of AI-generated content into your browser.
 - Interactive chat with OpenAI's advanced language model.
 - Context, text, and image generation for creative inspiration.
+<br>
 
 ## How to Download
 
@@ -52,16 +54,66 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 <br><br>
 
-## Usage
-1. Click the MindFlow extension icon to open the chat interface.
-2. Type your message to initiate a conversation with OpenAI.
-3. For text generation, ask questions or prompt creative writing.
-4. For image generation, describe the image you want, and let AI create it.
+## How to Use
+
+### 1. Text generation.
+<br>
+
+https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/4dc94085-5c32-475d-9c1a-f60c9bd364e0
+
+<br><br>
+
+In the above example I have generated a linkedin post about the Mindflow chrome extension.
+You can generate:
+- Code examples
+- Poem or rap song like python vs java 😂
+- Funny conversation between two celebs
+- Introduction by providing necessary data
+- Remember it doesn't have access to internet so it can't answer like todays weather, match, etc.
+<br>
+
+### 2. Text generation with context
+<br>
+
+https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/396db190-9ef6-48da-85e1-bcc8697f4f77
+
+<br><br>
+
+In first input field enter the question.<br>
+In second input field enter the data related to question (stretch the textarea according to your needs)<br><br>
+In the above example I have generated a cover letter as a python developer by providing resume data.
+You can generate:
+- Personalized answers by providing necessary data
+- Introduction about your project
+- Social media post generation
+- Cold mails according to your experience and achievements
+- Remember it can't take input more than 500 characters and including spaces. 
+<br>
+
+### 3. Image generation.
+<br>
+
+https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/0c330ccf-31de-41f4-8fb6-32ebcafb079b
+
+<br><br>
+
+In first input field enter the main elements of the image<br>
+In second input field enter the main elements along with it the description of the environment<br><br>
+
+In the above example I have generated image of kittens and puppies in a shelter
+You can generate:
+- Posters
+- Scifi or future cities
+- Magical mystical forests
+- Personalities
+- And much more
+<br>
 
 ## Technology Stack
 - Frontend: HTML, CSS, JavaScript for the extension UI.
 - Backend: FastAPI server hosted on Render.
 - AI Models: MindsDB, OpenAI's language and image models.
+<br>
 
 ## Workflow
 1. User interacts with the extension's UI.
@@ -70,16 +122,19 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 4. AI models generate responses and images.
 5. Server sends AI-generated content back to the frontend.
 6. The user sees the generated content in the extension UI.
+<br>
 
 ## Connect with Me
 Got questions or feedback? Let's connect:
 - [Twitter](https://twitter.com/UtkarshShah0)
 - [LinkedIn](https://linkedin.com/in/utkarsh-314b83120)
+<br>
 
 ## Acknowledgments
 - Thanks to MindsDB for the powerful database solution.
 - Special shoutout to OpenAI for their cutting-edge language and image models.
 - Kudos to the Render platform for hosting our FastAPI server.
+<br>
 
 ## Note
 As of now, MindFlow Chrome extension is not available on the Chrome Web Store. To use it, you need to download the frontend part from our GitHub repository and run it in developer mode in Chrome.
