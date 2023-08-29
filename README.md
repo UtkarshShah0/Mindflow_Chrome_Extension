@@ -131,9 +131,9 @@ Got questions or feedback? Let's connect:
 <br>
 
 ## Acknowledgments
-- Thanks to MindsDB for the powerful database solution.
-- Special shoutout to OpenAI for their cutting-edge language and image models.
-- Kudos to the Render platform for hosting our FastAPI server.
+- Thanks to [MindsDB](https://mindsdb.com/) for the powerful database solution.
+- Special shoutout to [OpenAI](https://openai.com/) for their cutting-edge language and image models.
+- Kudos to the [Render](https://render.com/) platform for hosting our FastAPI server.
 <br>
 
 ## Note
