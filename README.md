@@ -36,6 +36,13 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 <b>Step 3:</b> Make sure button is "on".<br>
 <b>Step 4:</b> Click on details and give the necessary permissions if not working.<br>
 
+### 4. Use Extension
+<br>
+<img src="https://file.notion.so/f/s/50a13b35-11e5-484d-ab4b-ddf13e714dad/4_use.png?id=5b4adc90-c6a1-458e-8abb-0ee9c09f7ea3&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693389600000&signature=wSl2R2xqmOoYJc8oKFujH-NnLVvlJqGDnp-OdmJkdZM&downloadName=4_use.png">
+<br>
+<b>Step 1:</b>Click on the extension icon and use it<br>
+
+
 ## Usage
 1. Click the MindFlow extension icon to open the chat interface.
 2. Type your message to initiate a conversation with OpenAI.
