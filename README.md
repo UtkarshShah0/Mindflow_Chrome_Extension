@@ -1,7 +1,12 @@
-# MindFlow - AI-powered Text and Image Generation Chrome Extension
+MindFlow 🚀
+## AI-powered Text and Image Generation Chrome Extension
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)
 
+ <p align = "center">
+<img src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/e69317d0-216e-44c7-8a37-24093f450b64">
+ </p>
+ 
 Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, OpenAI, and FastAPI to generate text and images on-the-fly.
 
 ![Extension Demo](demo.gif)
@@ -13,7 +18,16 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 - Context, text, and image generation for creative inspiration.
 <br>
 
-## How to Download
+## Table of Contents
+-[Features](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#features) <br>
+-[How to Install](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#how-to-install)<br>
+-[How to Use](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#how-to-use)<br>
+-[Technology Stack](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#technology-stack)<br>
+-[Workflow](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#workflow)<br>
+-[Connect With Me](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#connect-with-me)<br>
+-[Acknowledgements](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#acknowledgements)<br>
+-[Note](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#note)<br>
+## How to Install
 
 
 ### 1. Download the extension from our [GitHub repository](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension).
