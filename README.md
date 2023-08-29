@@ -9,14 +9,32 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 ## Features
 - Seamless integration of AI-generated content into your browser.
 - Interactive chat with OpenAI's advanced language model.
-- On-the-fly context, text, and image generation for creative inspiration.
+- Context, text, and image generation for creative inspiration.
 
-## How to Use
-1. Download the extension from our [GitHub repository](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension).
-2. Extract the downloaded ZIP file to a folder.
-3. Open Chrome and go to `chrome://extensions/`.
-4. Enable "Developer mode" in the top-right corner.
-5. Click "Load unpacked" and select the extracted folder.
+## How to Download
+### 1. Download the extension from our [GitHub repository](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension).
+<br>
+<img src="https://file.notion.so/f/s/172dc144-92e5-4fea-8505-7ccccdcf10dc/1_github.png?id=fa483817-8e16-4a94-82bb-5caf1946dd9c&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693375200000&signature=moAphGkVWUYMvl5pj5-Q5rvMb1TC4W_nsfETvx11jsw&downloadName=1_github.png">
+<br>
+<b>Step 1:</b> Click on code <br>
+<b>Step 2:</b> Click on download zip <br>
+<b>Step 3:</b> Extract the downloaded ZIP file <br>
+
+### 2. Open your Chrome Browser. 
+<br>
+<img src="https://file.notion.so/f/s/9b4aca1e-03b1-4dde-a9a3-6ca9fc3264c4/2_Chrome.png?id=06c027cc-3771-440f-b9af-2335315ed53f&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693375200000&signature=N1TeTMCJ_H_L6Ou8kLKca2U9kDQyZmKbY9Isf6xpIqc&downloadName=2_Chrome.png">
+<br>
+<b>Step 1:</b> Click on triple dots icon top right <br>
+<b>Step 2:</b> Click on Extensions then choose manage extensions <br>
+
+### 3. Load extension.
+<br>
+<img src="https://file.notion.so/f/s/d0cff1b4-6cbe-4017-b6c8-997a55aae157/3_Extension.png?id=9847dc61-7f3a-4e78-b595-3f51cd347291&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693382400000&signature=ksEJvUIwlWA081PijETMjHZ7xn1F8UAotufgh70o9JU&downloadName=3_Extension.png">
+<br>
+<b>Step 1:</b> Enable "Developer mode" in the top-right corner.<br>
+<b>Step 2:</b> Click "Load unpacked" and select the extracted folder.<br>
+<b>Step 3:</b> Make sure button is "on".<br>
+<b>Step 4:</b> Click on details and give the necessary permissions if not working.<br>
 
 ## Usage
 1. Click the MindFlow extension icon to open the chat interface.
