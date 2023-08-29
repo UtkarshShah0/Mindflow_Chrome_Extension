@@ -1,4 +1,4 @@
-MindFlow 🚀
+# MindFlow 🚀
 ## AI-powered Text and Image Generation Chrome Extension
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)
@@ -12,7 +12,7 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 ![Extension Demo](demo.gif)
 <br>
 
-## Features
+## Features 
 - Seamless integration of AI-generated content into your browser.
 - Interactive chat with OpenAI's advanced language model.
 - Context, text, and image generation for creative inspiration.
