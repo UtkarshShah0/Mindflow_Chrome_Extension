@@ -12,22 +12,23 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 ![Extension Demo](demo.gif)
 <br>
 
-## Features 
+## Features 💡
 - Seamless integration of AI-generated content into your browser.
 - Interactive chat with OpenAI's advanced language model.
 - Context, text, and image generation for creative inspiration.
 <br>
 
-## Table of Contents
--[Features](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#features) <br>
--[How to Install](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#how-to-install)<br>
--[How to Use](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#how-to-use)<br>
--[Technology Stack](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#technology-stack)<br>
--[Workflow](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#workflow)<br>
--[Connect With Me](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#connect-with-me)<br>
--[Acknowledgements](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#acknowledgements)<br>
--[Note](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/#note")<br>
-## How to Install
+## Table of Contents 📃
+-[Features](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#features) <br>
+-[How to Install](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#how-to-install)<br>
+-[How to Use](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#how-to-use)<br>
+-[Technology Stack](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#technology-stack)<br>
+-[Workflow](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#workflow)<br>
+-[Connect With Me](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#connect-with-me)<br>
+-[Acknowledgements](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#acknowledgements)<br>
+-[Note](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/edit/main/README.md/#note)<br>
+
+## How to Install 🔧
 
 
 ### 1. Download the extension from our [GitHub repository](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension).
@@ -68,7 +69,7 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 <br><br>
 
-## How to Use
+## How to Use 📖
 
 ### 1. Text generation.
 <br>
@@ -123,13 +124,13 @@ You can generate:
 - And much more
 <br>
 
-## Technology Stack
+## Technology Stack 🗄️
 - Frontend: HTML, CSS, JavaScript for the extension UI.
 - Backend: FastAPI server hosted on Render.
 - AI Models: MindsDB, OpenAI's language and image models.
 <br>
 
-## Workflow
+## Workflow ⚙️
 1. User interacts with the extension's UI.
 2. JavaScript sends user input to FastAPI server.
 3. FastAPI server communicates with MindsDB and OpenAI.
@@ -138,19 +139,19 @@ You can generate:
 6. The user sees the generated content in the extension UI.
 <br>
 
-## Connect with Me
+## Connect with Me 🤝
 Got questions or feedback? Let's connect:
 - [Twitter](https://twitter.com/UtkarshShah0)
 - [LinkedIn](https://linkedin.com/in/utkarsh-314b83120)
 <br>
 
-## Acknowledgments
+## Acknowledgments 🙏
 - Thanks to [MindsDB](https://mindsdb.com/) for the powerful database solution.
 - Special shoutout to [OpenAI](https://openai.com/) for their cutting-edge language and image models.
 - Kudos to the [Render](https://render.com/) platform for hosting our FastAPI server.
 <br>
 
-## Note
+## Note 📝
 As of now, MindFlow Chrome extension is not available on the Chrome Web Store. To use it, you need to download the frontend part from our GitHub repository and run it in developer mode in Chrome.
 
 *Enjoy the power of AI-driven creativity with MindFlow! Don't forget to ⭐ the repository on [GitHub](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension)!*
