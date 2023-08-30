@@ -34,7 +34,9 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 ### 1. Download the extension from our [GitHub repository](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension).
 <br>
-<img src="https://file.notion.so/f/s/172dc144-92e5-4fea-8505-7ccccdcf10dc/1_github.png?id=fa483817-8e16-4a94-82bb-5caf1946dd9c&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693375200000&signature=moAphGkVWUYMvl5pj5-Q5rvMb1TC4W_nsfETvx11jsw&downloadName=1_github.png">
+
+<img width="949" alt="1_github" src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/33ab1701-a35b-4adb-875c-dcc01c0fa0f8">
+
 <br>
 <b>Step 1:</b> Click on code <br>
 <b>Step 2:</b> Click on download zip <br>
@@ -44,7 +46,8 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 ### 2. Open your Chrome Browser. 
 <br>
-<img src="https://file.notion.so/f/s/9b4aca1e-03b1-4dde-a9a3-6ca9fc3264c4/2_Chrome.png?id=06c027cc-3771-440f-b9af-2335315ed53f&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693375200000&signature=N1TeTMCJ_H_L6Ou8kLKca2U9kDQyZmKbY9Isf6xpIqc&downloadName=2_Chrome.png">
+<img width="960" alt="2_Chrome" src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/55e807e1-6022-4731-aaae-f7e93a9fa74a">
+
 <br>
 <b>Step 1:</b> Click on triple dots icon top right <br>
 <b>Step 2:</b> Click on Extensions then choose manage extensions <br>
@@ -53,7 +56,8 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 ### 3. Load extension.
 <br>
-<img src="https://file.notion.so/f/s/d0cff1b4-6cbe-4017-b6c8-997a55aae157/3_Extension.png?id=9847dc61-7f3a-4e78-b595-3f51cd347291&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693382400000&signature=ksEJvUIwlWA081PijETMjHZ7xn1F8UAotufgh70o9JU&downloadName=3_Extension.png">
+<img width="960" alt="3_Extension" src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/0fa63f7d-3da6-4a59-91d3-ad4a01c46d46">
+
 <br>
 <b>Step 1:</b> Enable "Developer mode" in the top-right corner.<br>
 <b>Step 2:</b> Click "Load unpacked" and select the extracted folder.<br>
@@ -64,7 +68,8 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 ### 4. Use Extension
 <br>
-<img src="https://file.notion.so/f/s/50a13b35-11e5-484d-ab4b-ddf13e714dad/4_use.png?id=5b4adc90-c6a1-458e-8abb-0ee9c09f7ea3&table=block&spaceId=d8c53cc2-07e8-48c5-8192-9ed7dca5568d&expirationTimestamp=1693389600000&signature=wSl2R2xqmOoYJc8oKFujH-NnLVvlJqGDnp-OdmJkdZM&downloadName=4_use.png">
+<img width="949" alt="4_use" src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/ce80e33f-2359-4046-9434-3ca53cd839b2">
+
 <br>
 <b>Step 1:</b> Click on the extension icon and use it<br>
 
