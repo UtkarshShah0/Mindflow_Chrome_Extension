@@ -147,7 +147,15 @@ You can generate:
 <br>
 
 ## MindFlow Server 💽
-MindFlow server repo : [link](https://github.com/UtkarshShah0/Mindflow_server)
+MindFlow server repo : [Link](https://github.com/UtkarshShah0/Mindflow_server)
+<br>
+<br>
+
+## MindsDB 
+__MindsDB__ is a key component that enhances MindFlow's text generation capabilities.<br>
+The following repository focuses specifically on the MindsDB model used within MindFlow and provides insights into its configuration and usage.
+
+MindsDB repo : [Link](https://github.com/UtkarshShah0/Mindflow_Mindsdb)
 <br>
 <br>
 
