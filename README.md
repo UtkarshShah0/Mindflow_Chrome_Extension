@@ -145,6 +145,10 @@ You can generate:
 6. The user sees the generated content in the extension UI.
 <br>
 
+## MindFlow Server
+MindFlow server repo : [link](https://github.com/UtkarshShah0/Mindflow_server)
+<br>
+
 ## Connect with Me 🤝
 Got questions or feedback? Let's connect:
 - [Twitter](https://twitter.com/UtkarshShah0)
