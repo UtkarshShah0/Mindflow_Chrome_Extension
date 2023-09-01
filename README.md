@@ -24,14 +24,19 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 <br>
 
 
--[How to Install](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/main/README.md/#how-to-install)<br>
--[How to Use](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/main/README.md/#how-to-use)<br>
--[Technology Stack](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/main/README.md/#technology-stack)<br>
--[Workflow](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/main/README.md/#workflow)<br>
--[Connect With Me](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/main/README.md/#connect-with-me)<br>
--[Acknowledgements](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/main/README.md/#acknowledgements)<br>
--[Mindflow Server Repo](https://github.com/UtkarshShah0/Mindflow_server) <br>
--[Note](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/main/README.md/#note)<br>
+-[How to Install](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#how-to-install-)<br>
+
+-[How to Use](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#how-to-use-)<br>
+
+-[Technology Stack](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#technology-stack-%EF%B8%8F)<br>
+
+-[Workflow](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#workflow-%EF%B8%8F)<br>
+
+-[Connect With Me](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#connect-with-me-)<br>
+
+-[Acknowledgements](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#acknowledgments-)<br>
+
+-[Note](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#note-)<br>
 <br>
 
 ## How to Install 🔧
