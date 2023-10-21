@@ -17,11 +17,14 @@
                 <button id="chat-button">Chat</button> 
                 <button id="summary-button">Context</button>
                 <button id="image-button">Image</button>
+                <button id="web-button">Web</button>
             </div>
 
             <div id="chat-section">
                 <!-- <h2>Chatbot</h2> -->
                 <div id="response_chat" class="response " ><p>Your response will be shown here...</p></div>
+                <button id="chat-copyButton" class="copy">📋</button>
+
                 <input type="text" class="question" id="question_chat" placeholder="Type your question...">
                 <button id="submit_chat" class="submit">Generate</button>
                 
@@ -30,6 +33,8 @@
             
             <div id="summary-section">
                 <div id="response_data" class="response"><p>Your data will be shown here...</p></div>
+                <button id="summary-copyButton" class="copy">📋</button>
+
                 <input type="text" class="question" id="question_data" placeholder="Enter the question according to data..."></input>
                 <textarea type="text" class="question" id="data_data" placeholder="Enter your data... "></textarea>
                 <button id="submit_data" class="submit">Generate</button>
@@ -39,10 +44,23 @@
 
             <div id="image-section">
                 <div id="response_image" class="response"><p>Copy the image url shown here...</p></div>
-                <input type="text" class="question" id="question_image" placeholder="Enter base data of image..."></input>
-                <textarea type="text" class="question" id="data_image" placeholder="Enter extra data of image... "></textarea>
+                <button id="image-copyButton" class="copy">📋</button>
+
+                <!-- <input type="text" class="question" id="question_image" placeholder="Enter base data of image..."></input> -->
+                <textarea type="text" class="question" id="question_image" placeholder="Enter data of image... "></textarea>
                 <button id="submit_image" class="submit">Generate</button>
                 <!-- Image section content -->
+            </div>
+
+            <div id="web-section">
+                <div id="response_web" class="response"><p>Your response will be shown here...</p></div>
+                <button id="web-copyButton" class="copy">📋</button>
+
+                <input type="text" class="question" id="question_web" placeholder="Enter the question according to data..."></input>
+                <input type="text" class="question" id="data_web" placeholder="Enter the URL of website/pdf "></input>
+                <button id="submit_web" class="submit">Generate</button>
+
+                <!-- Web section content -->
             </div>
 
         </div>
