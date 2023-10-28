@@ -1,6 +1,6 @@
 {
     "name": "MindFlow",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "AI chat, summarize, analyze & generate images in one extension - MindFlow",
     "manifest_version": 3,
     "author": "Utkarsh",
