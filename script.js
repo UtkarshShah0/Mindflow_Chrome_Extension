@@ -326,7 +326,7 @@ document.addEventListener('DOMContentLoaded', function () {
         console.log(context)
         
         
-        const apiUrl = 'http://127.0.0.1:8000/web'; 
+        const apiUrl = 'https://mindflow-u5hy.onrender.com/web'; 
         const response = await fetch(apiUrl, {
                     method: 'POST',
                     headers: {
