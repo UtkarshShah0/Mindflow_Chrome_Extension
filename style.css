@@ -28,7 +28,7 @@ html, body {
 
 
 #chatbot-container {
-    min-width: 300px;
+    min-width: 400px;
     max-width: 1000px;
     border-radius: 20px;
     border: 1cm;
@@ -62,6 +62,10 @@ html, body {
     display: none;
 }
 
+#web-section{
+  display: none;
+}
+
 .question {
     width: 80%;
     padding: 10px;
@@ -69,6 +73,16 @@ html, body {
     border: 1px solid #ccc;
     border-radius: 5px;
     font-family: Arial, sans-serif;
+}
+
+.button-holder{
+    display: flex;
+    justify-content: space-between;
+    /* background: #fbb300; */
+}
+
+.copy{
+  margin-top: 10px;
 }
 
 
