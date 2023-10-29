@@ -1,7 +1,7 @@
 # MindFlow 🚀
 ## AI-powered Text and Image Generation Chrome Extension
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)
+![Version](https://img.shields.io/badge/version-2.0-blue.svg?style=flat-square)
 
  <p align = "center">
 <img src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/e69317d0-216e-44c7-8a37-24093f450b64">
