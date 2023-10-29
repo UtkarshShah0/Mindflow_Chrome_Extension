@@ -20,6 +20,7 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 ## Table of Contents 📃
 -[Features](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#features-)<br>
+-[New Features]()<br>
 -[How to Install](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#how-to-install-)<br>
 -[How to Use](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#how-to-use-)<br>
 -[Technology Stack](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#technology-stack-%EF%B8%8F)<br>
@@ -31,6 +32,34 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 -[Note](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#note-)<br>
 <br>
 
+## New Features ✨
+
+
+### 1. Copy Button
+<br>
+
+<br>
+ <img width="960" alt="Screenshot 2023-10-30 001421" src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/5f7f3f73-d5a9-4e51-be54-4286ad69fdbe">
+ 
+<br> Added copy button in each section, now the user can copy response in one click <br>
+
+<br><br>
+
+### 2. Web Section. 
+<br>
+https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/2e4a2d64-c2d0-4449-ae2e-b9751c2d9596
+<br><br>
+
+In first input field enter the question.<br>
+In second input field enter the link of articles/pdf online (web crawler accessible websites link)<br><br>
+In the above example I have generated summary of a MindsDB article.
+You can generate:
+- Summary of the article
+- Can ask questions
+- Get main key points
+- <i>Due to chatGPT 3.5 turbo limited tokens, it takes only first 1500 characters from the data </i> 
+
+<br><br>
 ## How to Install 🔧
 
 
