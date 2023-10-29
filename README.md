@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg?style=flat-square)
 
  <p align = "center">
-<img src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/e69317d0-216e-44c7-8a37-24093f450b64">
+<img src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/909e8c03-e2a6-4919-a2e9-77089553f4e4">
  </p>
  
 Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, OpenAI, and FastAPI to generate text and images on-the-fly.
