@@ -47,7 +47,14 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 ### 2. Web Section. 
 <br>
-https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/2e4a2d64-c2d0-4449-ae2e-b9751c2d9596
+<video width="960" controls>
+  <source src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/9eb05bca-5929-49fd-9ad1-195393c43123.mov" type="video/mp4">
+</video>
+
+https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/9eb05bca-5929-49fd-9ad1-195393c43123
+
+
+<!-- https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/2e4a2d64-c2d0-4449-ae2e-b9751c2d9596 -->
 <br><br>
 
 In first input field enter the question.<br>
