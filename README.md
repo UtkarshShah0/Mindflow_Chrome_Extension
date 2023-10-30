@@ -20,7 +20,7 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 
 ## Table of Contents 📃
 -[Features](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#features-)<br>
--[New Features]()<br>
+-[New Features](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#new-features-)<br>
 -[How to Install](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#how-to-install-)<br>
 -[How to Use](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#how-to-use-)<br>
 -[Technology Stack](https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/blob/main/README.md#technology-stack-%EF%B8%8F)<br>
