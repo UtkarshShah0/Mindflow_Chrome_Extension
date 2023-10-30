@@ -39,7 +39,7 @@ Welcome to MindFlow, an AI-powered Chrome extension that leverages MindsDB, Open
 <br>
 
 <br>
- <img width="960" alt="Screenshot 2023-10-30 001421" src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/5f7f3f73-d5a9-4e51-be54-4286ad69fdbe">
+ <img width="960" alt="web section" src="https://github.com/UtkarshShah0/Mindflow_Chrome_Extension/assets/93548048/5f7f3f73-d5a9-4e51-be54-4286ad69fdbe">
  
 <br> Added copy button in each section, now the user can copy response in one click <br>
 
